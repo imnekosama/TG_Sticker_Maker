@@ -19,4 +19,5 @@ venv/
 Thumbs.db
 
 # 个人笔记或敏感文档（可选）
+.vscode/
 开发需求.md
